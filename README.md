@@ -53,6 +53,7 @@ Here's a quick run down of some of the projects I'm working on / some of the tea
 <!----------------- LINKS --------------->
 
 [`TypeScript`]: https://www.typescriptlang.org/
+[`JavaScript`]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [`Rust`]: https://www.rust-lang.org/
 [`Java`]: https://adoptopenjdk.net/
 [`Python`]: https://www.python.org/
