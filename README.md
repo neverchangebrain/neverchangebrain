@@ -23,7 +23,7 @@ I'm a self taught, backend developer, that went head first into coding and fell 
 You can reach out to me on a multitude of platforms!
 
 - <img src="https://raw.githubusercontent.com/SadnessNetwork/SadnessNetwork/master/assets/logo-gmail.png" align="center"> : sadness.work@gmail.com OR work@sadness.website
-- <img src="https://raw.githubusercontent.com/SadnessNetwork/SadnessNetwork/master/assets/logo-discord.png" align="center">: [`@fame.mind`](https://discord.com/users/536479598469316639)
+- <img src="https://raw.githubusercontent.com/SadnessNetwork/SadnessNetwork/master/assets/logo-discord.png" align="center">: [`@soitssadness`](https://discord.com/users/536479598469316639)
 - <img src="https://raw.githubusercontent.com/SadnessNetwork/SadnessNetwork/master/assets/logo-telegram.png" align="center"> : [`@zaryanetwork`][Telegram]
 
 ## 🔭 Projects
