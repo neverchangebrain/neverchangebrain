@@ -1,6 +1,6 @@
 # Hi there, I'm Nazar! 👋 <img src="https://komarev.com/ghpvc/?username=SadnessNetwork" alt="" align="center" />
 
-I'm a Backend-focused Developer from Ukraine! ✨ I'm a very fast learner in most programming languages and an open-source server app creator; with focus on: [`TypeScript`] (and JavaScript 👀) & [`Rust`]. I've also experimented with [`Python`] (and [`Java`]), [`C#`] and a bit of [`C++`] 😄
+I'm a Backend-focused Developer from Ukraine! ✨ I'm a very fast learner in most programming languages and an open-source server app creator; with focus on: [`TypeScript`] (and [`JavaScript`] 👀) & [`Rust`]. I've also experimented with [`Python`] (and [`Java`]), [`C#`] and a bit of [`C++`] 😄
 
 - 😄 Pronouns: anything you want, as long as it isn't offensive to anyone. He, she, they, doesn't matter to me
 - ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, and if that doesn't work, by researching it. While counter intuitive, this has helped me get started with the world of programming! Nowadays, I do research, but after I tried figuring out the solution by myself 😅
@@ -14,7 +14,7 @@ I'm a self taught, backend developer, that went head first into coding and fell 
 
 - Self taught, full stack developer
 - Started coding in **2019**
-- Over 4 years of experience with **JavaScript** and over 3 with **[`TypeScript`]**
+- Over 4 years of experience with **[`JavaScript`]** and over 3 with **[`TypeScript`]**
 - Willing to learn new things all the time, and work in teams 😄
 - Always down to chat! Contact me on one of the platforms down below!
 
