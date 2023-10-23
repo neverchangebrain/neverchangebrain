@@ -31,6 +31,7 @@ You can reach out to me on a multitude of platforms!
 Here's a quick run down of some of the projects I'm working on / some of the teams I'm working with:
 
 - 🤖 [`Assisterr`] - a multi-channel developer support solution designed to provide best-in-class technical support
+- ⛪ [`7pm / Seven PM`] - soon...
 
 > I tend to pick up a lot of projects as time passes, so this list is not exhaustive! :sweat_smile:
 > You can see more by exploring [`my repositories`]
@@ -62,8 +63,9 @@ Here's a quick run down of some of the projects I'm working on / some of the tea
 [`Discord`]: https://discord.com/
 [`my repositories`]: https://github.com/SadnessNetwork?tab=repositories
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
-[Telegram]: https://t.me/zaryanetwork
+[`Telegram`]: https://t.me/zaryanetwork
 
 <!--------------- Teams ----------------->
 
 [`Assisterr`]: https://www.assisterr.xyz/
+[`7pm / Seven PM`]: https://www.7pm.space/
