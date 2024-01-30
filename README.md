@@ -1,4 +1,4 @@
-# Hi there, I'm Nazar! 👋 <img src="https://komarev.com/ghpvc/?username=SadnessNetwork" alt="" align="center" />
+# Hi there, I'm Nazar! 👋
 
 I'm a Backend-focused Developer from Ukraine! ✨ I'm a very fast learner in most programming languages and an open-source server app creator; with focus on: [`TypeScript`] (and [`JavaScript`] 👀) & [`Rust`]. I've also experimented with [`Python`] (and [`Java`]), [`C#`] and a bit of [`C++`] 😄
 
@@ -47,6 +47,15 @@ Here's a quick run down of some of the projects I'm working on / some of the tea
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://count.getloli.com/" target="_blank">
+    <img
+      src="https://moe-counter.glitch.me/get/@72276803-0571-4e62-b0a7-9880fcd0244f?theme=gelbooru"
+      alt="SadnessNetwork's visit count"
+    />
+  </a>
+</p>
 
 > Provided by [`GitHub Readme Stats`]
 
