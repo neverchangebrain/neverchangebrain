@@ -57,7 +57,11 @@ Here's a quick run down of some of the projects I'm working on / some of the tea
   </a>
 </p>
 
-> Provided by [`GitHub Readme Stats`]
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
+
+<p align="center">Provided by [`GitHub Readme Stats`]</p>
 
 <!----------------- LINKS --------------->
 
