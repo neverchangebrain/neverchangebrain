@@ -61,7 +61,7 @@ Here's a quick run down of some of the projects I'm working on / some of the tea
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
 
-<p align="center">Provided by [`GitHub Readme Stats`]</p>
+<p align="center">amm... uh.. im just... eh? just what...</p>
 
 <!----------------- LINKS --------------->
 
@@ -74,7 +74,6 @@ Here's a quick run down of some of the projects I'm working on / some of the tea
 [`C#`]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [`Discord`]: https://discord.com/
 [`my repositories`]: https://github.com/SadnessNetwork?tab=repositories
-[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 [Telegram]: https://t.me/zaryanetwork
 
 <!--------------- Teams ----------------->
