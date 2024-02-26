@@ -1,5 +1,3 @@
-# Hi there, I'm Nazar! 👋
-
 <p align="center">
   <a href="https://count.getloli.com/" target="_blank">
     <img
@@ -8,6 +6,8 @@
     />
   </a>
 </p>
+
+# Hi there, I'm Nazar! 👋
 
 I'm a Backend-focused Developer from Ukraine! ✨ I'm a very fast learner in most programming languages and an open-source server app creator; with focus on: [`TypeScript`] (and [`JavaScript`] 👀) & [`Rust`]. I've also experimented with [`Python`] (and [`Java`]), [`C#`] and a bit of [`C++`] 😄
 
