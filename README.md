@@ -7,31 +7,30 @@
   </a>
 </p>
 
-# Hi there, I'm Nazar! 👋
+# Sup guys i'm Nazar! 👀
 
 Simple Backend dev.
-Tryhard dota 2 player: now 2k+
+Tryhard dota 2 player: now 2k+ mmr.
+Signature: Invoker, Legion Commander
 Activity learn C#, basic C
 
-## TODO in live:
-[] Graduate
+## TODO
 
-[] Find a girlfriend
-
-[] Get out of 2k rating
-
-[] Learn to communicate
-
-[] Just be a person
+- [x] graduate from school & college
+- [x] learn JS and TS
+- [ ] being human
+- [ ] workout
+- [ ] learn C# and basic C
+- [ ] graduate from college
+- [ ] find yourself
+- [ ] find a girlfriend
+- [ ] 40 years in the office
+- [ ] retire...
+- [ ] and? Die...
 
 ## 🔭 Projects
 
-Here's a quick run down of some of the projects I'm working on / some of the teams I'm working with:
-
-- 🤖 [`Assisterr`] - a multi-channel developer support solution designed to provide best-in-class technical support
-
-> I tend to pick up a lot of projects as time passes, so this list is not exhaustive! :sweat_smile:
-> You can see more by exploring [`my repositories`]
+- 🤖 [`Assisterr`] & **2023 - unknown**
 
 ### 👀 Quick Statistics
 
@@ -47,11 +46,10 @@ Here's a quick run down of some of the projects I'm working on / some of the tea
 </table>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+ <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
 
 <p align="center">amm... uh.. im just... eh? just what...</p>
-
 
 <!--------------- Teams ----------------->
 
