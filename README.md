@@ -15,9 +15,13 @@ Activity learn C#, basic C
 
 ## TODO in live:
 [] Graduate
+
 [] Find a girlfriend
+
 [] Get out of 2k rating
+
 [] Learn to communicate
+
 [] Just be a person
 
 ## 🔭 Projects
