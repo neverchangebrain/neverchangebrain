@@ -9,7 +9,7 @@
 
 # Sup guys i'm Nazar! 👀
 
-Simple Backend dev.<br>
+I love to contribute to the community.<br>
 Tryhard dota 2 player: now 2k+ mmr.<br>
 Signature: Invoker, Legion Commander<br>
 Activity learn C#, basic C<br>
