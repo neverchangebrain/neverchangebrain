@@ -19,11 +19,11 @@ Activity learn C#, basic C<br>
 - [x] graduate from school & college
 - [x] learn JS and TS
 - [ ] being human
-- [ ] workout
-- [ ] learn C# and basic C
+- [x] workout
+- [x] learn C# and basic C
 - [ ] graduate from college
 - [ ] find yourself
-- [ ] find a girlfriend
+- [x] find a girlfriend
 - [ ] 40 years in the office
 - [ ] retire...
 - [ ] and? Die...
