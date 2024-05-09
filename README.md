@@ -10,23 +10,7 @@
 # Sup guys i'm Nazar! 👀
 
 I love to contribute to the community.<br>
-Tryhard dota 2 player: now 2k+ mmr.<br>
-Signature: Invoker, Legion Commander<br>
-Activity learn C#, basic C<br>
-
-## TODO
-
-- [x] graduate from school & college
-- [x] learn JS and TS
-- [ ] being human
-- [x] workout
-- [x] learn C# and basic C
-- [ ] graduate from college
-- [ ] find yourself
-- [x] find a girlfriend
-- [ ] 40 years in the office
-- [ ] retire...
-- [ ] and? Die...
+More information in my [`portfolio`]<br>
 
 ## 🔭 Projects
 
@@ -54,3 +38,4 @@ Activity learn C#, basic C<br>
 <!--------------- Teams ----------------->
 
 [`Assisterr`]: https://www.assisterr.xyz/
+[`portfolio`]: https://www.sadnesss.website/
