@@ -7,12 +7,12 @@
   </a>
 </p>
 
-# Sup guys i'm Nazar! 👀
+### Sup guys i'm Nazar! 👀
 
 I love to contribute to the community.<br>
 More information in my [`portfolio`]<br>
 
-## 🔭 Projects
+### 🔭 Projects
 
 - 🤖 [`Assisterr`] & **2023 - unknown**
 
