@@ -24,4 +24,4 @@ More information in my [`portfolio`]<br>
 
 [`Assisterr`]: https://www.assisterr.xyz/
 [`Shocon.on`]: https://discord.gg/shadowraze
-[`portfolio`]: https://www.sadnesss.website/
+[`portfolio`]: https://www.sotiesman.tech/
