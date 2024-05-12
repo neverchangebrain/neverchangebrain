@@ -18,8 +18,10 @@ I love to contribute to the community.<br>
 More information in my [`portfolio`]<br>
 
 - 🤖 [`Assisterr`] & **2023 - unknown**
+- 🔑 [`Shocon.on`] & **2024 - unknown**
 
 <!--------------- Teams ----------------->
 
 [`Assisterr`]: https://www.assisterr.xyz/
+[`Shocon.on`]: https://discord.gg/shadowraze
 [`portfolio`]: https://www.sadnesss.website/
