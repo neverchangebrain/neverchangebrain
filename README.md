@@ -9,8 +9,12 @@ I love to contribute to the community.<br>
 More information in my [`portfolio`]<br>
 
 - 🤖 [`Assisterr`]  & **2023 - available**
+	- Sub-AI client maker
 - 🔑 [`Shocon.on`]  & **2024 - available**
+	- Event Admin
 - 🔥 [`Every`]      & **2024 - available**
+	- Minecaft Server Creator
+
 <!--------------- Teams ----------------->
 
 [`Assisterr`]: https://www.assisterr.xyz/
