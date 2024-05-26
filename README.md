@@ -8,11 +8,12 @@
 I love to contribute to the community.<br>
 More information in my [`portfolio`]<br>
 
-- 🤖 [`Assisterr`] & **2023 - unknown**
-- 🔑 [`Shocon.on`] & **2024 - unknown**
-
+- 🤖 [`Assisterr`]  & **2023 - available**
+- 🔑 [`Shocon.on`]  & **2024 - available**
+- 🔥 [`Every`]      & **2024 - available**
 <!--------------- Teams ----------------->
 
 [`Assisterr`]: https://www.assisterr.xyz/
 [`Shocon.on`]: https://discord.gg/shadowraze
 [`portfolio`]: https://www.sotiesman.tech/
+[`Every`]: https://discord.gg/everyday
