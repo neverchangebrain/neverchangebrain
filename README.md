@@ -8,7 +8,7 @@
 I love to contribute to the community.<br>
 More information in my [`portfolio`]<br>
 
-- [`old`] & [`new`] website & **infinity**
+- 🌪️ [`old`] & [`new`] website & **infinity**
 	- My personal portfolio's
 - 🤖 [`Assisterr`]  & **2023 - available**
 	- Sub-AI client maker
