@@ -8,6 +8,8 @@
 I love to contribute to the community.<br>
 More information in my [`portfolio`]<br>
 
+- [`old`] & [`new`] website & **infinity**
+	- My personal portfolio's
 - 🤖 [`Assisterr`]  & **2023 - available**
 	- Sub-AI client maker
 - 🔑 [`Shocon.on`]  & **2024 - available**
@@ -19,5 +21,7 @@ More information in my [`portfolio`]<br>
 
 [`Assisterr`]: https://www.assisterr.xyz/
 [`Shocon.on`]: https://discord.gg/shadowraze
-[`portfolio`]: https://www.sotiesman.tech/
 [`Every`]: https://discord.gg/everyday
+[`old`]: https://sadness.website/
+[`new`]: https://sotiesman.tech/
+[`portfolio`]: https://www.sotiesman.tech/
